@@ -1,0 +1,20 @@
+.color-background {
+  background-color: #FAF3E0;
+  color: #4A2C2A;
+}
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+}
+
+.font {
+  font-family: Georgia, serif;
+}
+.centermaker {
+    text-align: center;
+}
+.totheleft {
+    text-align: left;
+}
